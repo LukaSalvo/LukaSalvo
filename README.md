@@ -15,7 +15,7 @@
 
 ## 🛠️ En ce moment
 
-- J’approfondis mes connaissances en Go
+- J’approfondis mes connaissances 
 - Je travaille régulièrement sur des projets Linux, scripts Bash et l’administration système
 
 ---
