@@ -3,14 +3,6 @@
 🎓 Étudiant en BUT Informatique à l'IUT Nancy Charlemagne  
 🔒 Parcours DACS : Déploiement d'Applications Communicantes Sécurisées
 
-![Les Stats GitHub de LukaSalvo](https://github-readme-stats.vercel.app/api?username=LukaSalvo&show_icons=true&hide=prs,issues&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaSalvo&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=LukaSalvo&theme=dracula&no-frame=true)
-
-![LukaSalvo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukaSalvo&theme=dracula&hide_border=true)
-
 ---
 
 ## 💻 Compétences techniques
@@ -27,6 +19,17 @@
 - Je travaille régulièrement sur des projets Linux, scripts Bash et l’administration système
 
 ---
+
+## Des graphiques représentant mes contributions & autres
+
+![Les Stats GitHub de LukaSalvo](https://github-readme-stats.vercel.app/api?username=LukaSalvo&show_icons=true&hide=prs,issues&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaSalvo&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=LukaSalvo&theme=dracula&no-frame=true)
+
+![LukaSalvo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukaSalvo&theme=dracula&hide_border=true)
+
 
 ## 📫 Me contacter
 
