@@ -8,6 +8,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaSalvo&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LukaSalvo&theme=dracula&no-frame=true)
+
+![LukaSalvo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukaSalvo&theme=dracula&hide_border=true)
+
 ---
 
 ## 💻 Compétences techniques
