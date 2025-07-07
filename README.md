@@ -20,7 +20,7 @@
 
 ---
 
-## Des graphiques représentant mes contributions & autres
+## 📊 Des graphiques représentant mes contributions & autres
 
 ![Les Stats GitHub de LukaSalvo](https://github-readme-stats.vercel.app/api?username=LukaSalvo&show_icons=true&hide=prs,issues&theme=dracula)
 
@@ -30,7 +30,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukaSalvo&theme=dracula&hide_border=true)
 
-![Visitors](https://komarev.com/ghpvc/?username=LukaSalvo&color=blueviolet)
 
 ---
 
