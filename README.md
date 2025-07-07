@@ -3,6 +3,8 @@
 🎓 Étudiant en BUT Informatique à l'IUT Nancy Charlemagne  
 🔒 Parcours DACS : Déploiement d'Applications Communicantes Sécurisées
 
+![Les Stats GitHub de LukaSalvo](https://github-readme-stats.vercel.app/api?username=LukaSalvo&show_icons=true&hide=prs,issues)
+
 ---
 
 ## 💻 Compétences techniques
