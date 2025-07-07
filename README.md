@@ -5,6 +5,8 @@
 
 ![Les Stats GitHub de LukaSalvo](https://github-readme-stats.vercel.app/api?username=LukaSalvo&show_icons=true&hide=prs,issues)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaSalvo&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 ---
 
 ## 💻 Compétences techniques
