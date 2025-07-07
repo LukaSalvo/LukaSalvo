@@ -30,6 +30,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukaSalvo&theme=dracula&hide_border=true)
 
+![Visitors](https://komarev.com/ghpvc/?username=LukaSalvo&color=blueviolet)
 
 ---
 
