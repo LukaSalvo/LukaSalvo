@@ -20,12 +20,12 @@
 
 <h3 align="center">J'utilise </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,java,html,css,js,ts,nodejs,php,py,mysql,c,cpp,vba&perline=20" />
+  <img src="https://skillicons.dev/icons?i=golang,java,html,css,js,ts,nodejs,php,py,mysql,c,cpp&perline=20" />
 </p>
 
-<h3 align="center">Software and tools</h3>
+<h3 align="center">Logiciels </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,idea,git,github,nginx,githubactions,jenkins" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,nginx,githubactions" />
 </p>
 ---
 
