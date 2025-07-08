@@ -18,6 +18,15 @@
 - J’approfondis mes connaissances 
 - Je travaille régulièrement sur des projets Linux, scripts Bash et l’administration système
 
+<h3 align="center">J'utilise </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=golang,java,html,css,js,ts,nodejs,php,py,mysql,c,cpp,vba&perline=20" />
+</p>
+
+<h3 align="center">Software and tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,idea,git,github,nginx,githubactions,jenkins" />
+</p>
 ---
 
 ## 📊 Des graphiques représentant mes contributions & autres
