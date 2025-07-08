@@ -20,7 +20,7 @@
 
 <h3 align="center">J'utilise </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,golang,java,html,css,js,ts,nodejs,php,py,bash,mysql,c,latex&perline=20" />
+  <img src="https://skillicons.dev/icons?i=py,golang,java,html,css,js,nodejs,php,py,bash,mysql,c,latex&perline=20" />
 </p>
 
 <h3 align="center">Logiciels </h3>
