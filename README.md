@@ -38,6 +38,7 @@
 ## 📫 Me contacter
 
 - [Mon profil GitHub](https://github.com/LukaSalvo)
+- [Mon profil linkedin](https://www.linkedin.com/in/luka-salvo-289b10291/)
 
 ---
 
