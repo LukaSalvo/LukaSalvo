@@ -25,7 +25,7 @@
 
 <h3 align="center">Logiciels </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,windows,vim,linux,vscode,apple,git,github,bsd,nginx,githubactions,debian,ubuntu,emacs,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,windows,vim,linux,vscode,apple,git,github,bsd,nginx,debian,ubuntu,emacs,grafana" />
 </p>
 ---
 
