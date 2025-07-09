@@ -7,8 +7,8 @@
 
 ## 💻 Compétences techniques
 
-- **Langages :** JavaScript, HTML, CSS, PHP, Java, C, Python (bases), Go (en cours d’apprentissage)
-- **Systèmes d’exploitation :** Linux (utilisation avancée, scripting Bash), macOS
+- **Langages :** JavaScript, HTML, CSS, PHP, Java, C, Python (bases), Go (en cours d’apprentissage),VBA
+- **Systèmes d’exploitation :** Linux (utilisation avancée, scripting Bash), macOS ,Windows
 - **Autres :** Développement web, sécurisation d’applications, déploiement d’applications communicantes
 
 ---
